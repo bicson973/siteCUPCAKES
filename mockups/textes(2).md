@@ -5,7 +5,9 @@ CAKE MY DAY
 Boston, MA 01720
 
 Every day we make 100 cupcakes of a special flavor not on the menu. Order it by name & it's free! You have to act fast though, when all 100 are gone the deal is done for the day. (Limit 1 per customer.) 
+
  P.S. We post the flavor name on Twitter about 30 minutes before the website, so follow us to get a head start.
+
  Today's free cupcake
  October 9
  Triple Caramel
@@ -20,3 +22,5 @@ Every day we make 100 cupcakes of a special flavor not on the menu. Order it by 
  Carrot Cheesecake<br> Carrot cake with cheesecake baked in topped with vanilla cream cheese frosting and chocolate star.
  
  Peanut Butter<br> Vanilla caka filled with peanut butter frosting, topped with peanut butter and chocolate cream cheese frosting and peanut butter chips.
+
+ background: repeating-linear-gradient(90deg, #E2C9D7, #E2C9D7 20px, #E9D2DF 0, #E9D2DF 40px)
