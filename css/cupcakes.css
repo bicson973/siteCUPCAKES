@@ -1,2 +1,9 @@
 /* style pour cupcakes */
+header {
+        display: inline-flex;
+     
+}
+#adress {
+    justify-content: end;
+}
  
